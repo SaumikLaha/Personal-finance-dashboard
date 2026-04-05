@@ -1,6 +1,6 @@
 # 💰 Personal Finance Dashboard
 
-🚀 Live Demo: https://personal-finance-dashboard-nu.vercel.app/dashboard
+🚀 Live Demo: [https://personal-finance-dashboard-nu.vercel.app/dashboard](https://personal-finance-dashboard-nu.vercel.app/dashboard)
 
 ---
 
