@@ -1,5 +1,5 @@
-# 💰 Personal Finance Dashboard
-
+# 💰 Finance Dashboard
+📊 A modern and responsive finance dashboard to track income, expenses, and insights.
 
  ## Live Demo: https://personal-finance-dashboard-nu.vercel.app/
 
